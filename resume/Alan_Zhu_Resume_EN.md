@@ -1,7 +1,7 @@
 # Alan Zhu (Zhengfei Zhu)
 
 **Bilingual IT Technical Support Specialist | ITSM Support Analyst | Microsoft 365 / ServiceNow / Knowledge Management | AI-enabled Support Operations**  
-Shenzhen, China | WhatsApp / Telegram: +1 460 209 9928 | China phone / WeChat: +86 132 6720 5713  
+Shenzhen, China | Born Aug 1993 | WhatsApp / Telegram: +1 460 209 9928 | China phone / WeChat: +86 132 6720 5713  
 Email: alan.xiaofei224@gmail.com | Backup: alan.xiaofei993@outlook.com  
 LinkedIn: www.linkedin.com/in/alan-zhu-221846320
 
@@ -9,7 +9,7 @@ LinkedIn: www.linkedin.com/in/alan-zhu-221846320
 
 Bilingual IT technical support specialist with 4+ years of experience across Kyndryl, UPS support, AIA support, and Yageo manufacturing IT. I handle Windows, Microsoft 365, account, VPN, MFA, endpoint, and ServiceNow issues for global users, then turn repeated fixes into practical knowledge articles, training notes, and clearer escalation records.
 
-My path is not a traditional degree-to-office path. I left college early for work and rebuilt my skills through English self-study, Microsoft and ITIL certifications, Kyndryl learning resources, and real support work. Before IT, I ran a small restaurant, worked as a chef, sold B2B products overseas, taught adults English one-on-one, and coached people in fitness. That background helps me explain technical problems clearly and stay patient with users under pressure.
+My IT career is built on self-study, certifications, and hands-on support work, with an earlier background in service, sales, teaching, and coaching. Before IT, I ran a small restaurant, worked as a chef, sold B2B products overseas, taught adults English one-on-one, and coached people in fitness. That mix helps me stay calm with users, explain technical steps plainly, and keep learning when the environment changes.
 
 ## Target Roles
 
@@ -34,11 +34,11 @@ My path is not a traditional degree-to-office path. I left college early for wor
 **IT Technical Support Specialist, L1.5 / ServiceNow** | Apr 2022 - Present  
 Customer environments: Yageo manufacturing IT; AIA service desk project
 
-- Converted to full-time Kyndryl in Apr 2022, about nine months after joining the IBM/Kyndryl support environment through ASDC in Jul 2021. In that project environment, this was a fast conversion path and reflected consistently strong front-line performance.
+- Converted to full-time Kyndryl employee in Apr 2022, about nine months after joining the IBM/Kyndryl support environment through ASDC in Jul 2021, based on steady ticket quality, clear communication, and reliable front-line performance.
 - Provide English technical support for global Yageo users by phone, email, chat, and remote session across Windows, Microsoft 365, VPN, MFA, account, endpoint, and application issues.
 - Manage incidents and requests in ServiceNow with clear troubleshooting notes, user-impact context, and escalation information for downstream teams.
 - Supported the AIA service desk project for about one year and helped rebuild detailed knowledge documents, training material, and video-style walkthroughs for a long-running support project.
-- Maintain and improve Yageo knowledge base content from real incidents. I was already writing KB articles and handover notes manually before AI tools became common; now I use AI carefully to draft, organize, and review notes faster without exposing sensitive data.
+- Maintain and improve Yageo knowledge base content from real incidents, including KB articles, handover notes, and troubleshooting guides. I use AI tools carefully to draft, organize, and review notes faster while keeping company and user data out of public tools.
 - Use Microsoft Copilot, structured prompts, and local note workflows to improve ticket summaries, KB drafts, and support checklists within company data-security boundaries.
 
 ### Advanced Systems Development Co., Ltd. (ASDC) | Shenzhen
