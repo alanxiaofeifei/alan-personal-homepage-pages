@@ -34,11 +34,11 @@ My path is not a traditional degree-to-office path. I left college early for wor
 **IT Technical Support Specialist, L1.5 / ServiceNow** | Apr 2022 - Present  
 Customer environments: Yageo manufacturing IT; AIA service desk project
 
-- Promoted from outsourced support to full-time Kyndryl employee in Apr 2022 after joining the IBM/Kyndryl support environment through ASDC in Jul 2021.
+- Converted to full-time Kyndryl in Apr 2022, about nine months after joining the IBM/Kyndryl support environment through ASDC in Jul 2021. In that project environment, this was a fast conversion path and reflected consistently strong front-line performance.
 - Provide English technical support for global Yageo users by phone, email, chat, and remote session across Windows, Microsoft 365, VPN, MFA, account, endpoint, and application issues.
 - Manage incidents and requests in ServiceNow with clear troubleshooting notes, user-impact context, and escalation information for downstream teams.
 - Supported the AIA service desk project for about one year and helped rebuild detailed knowledge documents, training material, and video-style walkthroughs for a long-running support project.
-- Maintain and improve Yageo knowledge base content from real incidents. The habit started as manual documentation work before AI tools became common; AI is now used carefully to draft, organize, and review notes without exposing sensitive data.
+- Maintain and improve Yageo knowledge base content from real incidents. I was already writing KB articles and handover notes manually before AI tools became common; now I use AI carefully to draft, organize, and review notes faster without exposing sensitive data.
 - Use Microsoft Copilot, structured prompts, and local note workflows to improve ticket summaries, KB drafts, and support checklists within company data-security boundaries.
 
 ### Advanced Systems Development Co., Ltd. (ASDC) | Shenzhen
