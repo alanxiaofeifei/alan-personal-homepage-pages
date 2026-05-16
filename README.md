@@ -1,6 +1,5 @@
-# Alan Zhu Personal Homepage - GitHub Pages Build
+# Alan Zhu Personal Homepage - Static Build
 
-This public repository contains only the built static website files for GitHub Pages.
+This public output contains only built static website files for GitHub Pages or another static host.
 
-The private source repository is `alanxiaofeifei/alan-personal-homepage`.
 Raw source materials, private notes, and `Homepage_Resources/` are intentionally not published here.
