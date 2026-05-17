@@ -1,1 +1,12 @@
+# Generated / temporary files
+*.log
+.tmp.drivedownload/
 .tmp.driveupload/
+desktop.ini
+
+# Local editor / cloud-sync state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Ignore Smart Environment folder
+.smart-env
