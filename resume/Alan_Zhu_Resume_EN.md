@@ -1,8 +1,8 @@
-# Alan Zhu (Zhengfei Zhu)
+# Alan (Zhengfei Zhu / 朱正飞)
 
-**Bilingual IT Technical Support Specialist | ITSM Support Analyst | Microsoft 365 / ServiceNow / Knowledge Management | AI-enabled Support Operations**  
-Shenzhen, China | Born Aug 1993 | WhatsApp / Telegram: +1 460 209 9928 | China phone / WeChat: +86 132 6720 5713  
-Email: alan.xiaofei224@gmail.com | Backup: alan.xiaofei993@outlook.com  
+**Bilingual IT Technical Support Specialist | ITSM Support Analyst | Microsoft 365 / ServiceNow / Knowledge Management | AI-enabled Support Operations**
+Shenzhen, China | Born Aug 1993 | WhatsApp: +1 460 209 9928 | China phone: +86 132 6720 5713
+Outlook: alan.xiaofei993@outlook.com | WeChat: QR code on portfolio contact section
 LinkedIn: www.linkedin.com/in/alan-zhu-221846320
 
 ## Professional Profile
@@ -31,7 +31,7 @@ My IT career is built on self-study, certifications, and hands-on support work, 
 ## Work Experience
 
 ### Kyndryl Information Technology Co., Ltd. | Shenzhen / Remote
-**IT Technical Support Specialist, L1.5 / ServiceNow** | Apr 2022 - Present  
+**IT Technical Support Specialist, L1.5 / ServiceNow** | Apr 2022 - Present
 Customer environments: Yageo manufacturing IT; AIA service desk project
 
 - Converted to full-time Kyndryl employee in Apr 2022, about nine months after joining the IBM/Kyndryl support environment through ASDC in Jul 2021, based on steady ticket quality, clear communication, and reliable front-line performance.
@@ -41,10 +41,10 @@ Customer environments: Yageo manufacturing IT; AIA service desk project
 - Maintain and improve Yageo knowledge base content from real incidents, including KB articles, handover notes, and troubleshooting guides. I use AI tools carefully to draft, organize, and review notes faster while keeping company and user data out of public tools.
 - Use Microsoft Copilot, structured prompts, and local note workflows to improve ticket summaries, KB drafts, and support checklists within company data-security boundaries.
 
-### Advanced Systems Development Co., Ltd. (ASDC) | Shenzhen
+### Advanced Systems Development Co., Ltd. (ASDC, outsourcing/service provider) | Shenzhen
 **Bilingual Technical Support Representative, outsourced to IBM/Kyndryl UPS Project** | Jul 2021 - Apr 2022
 
-- Supported UPS internal users and external customers in English and Mandarin in a 24/7 service environment.
+- Worked as outsourced support through ASDC for the IBM/Kyndryl UPS project, supporting UPS internal users and external customers in English and Mandarin in a 24/7 service environment.
 - Resolved software, hardware, access, and office productivity issues within SLA expectations.
 - Escalated complex issues to L2/L3 teams with clear diagnostic notes and user-impact context.
 - Built the phone discipline, patience, and written handoff style that later helped me move into full-time Kyndryl support.
@@ -59,7 +59,8 @@ Customer environments: Yageo manufacturing IT; AIA service desk project
 ### Earlier Customer-facing and Teaching Work | Nanjing / Suzhou / Shenzhen
 **Restaurant operator, chef, hospitality worker, English and fitness coach** | 2012 - 2019
 
-- Ran a small breakfast and meal shop, worked in hotel and restaurant kitchens, and learned service discipline from front-line work.
+- Worked about two years at Fuzhou Century Golden Resources Hotel in Chinese kitchens focused on Fujian/Min and Cantonese cuisine, then about two years at Shenzhen Futian Zhongzhou Shengtingyuan Hotel across the 1F buffet restaurant and 29F VIP restaurant chef work.
+- Later ran a small breakfast and meal shop, learning service discipline and delivery awareness from front-line work.
 - Taught adult English learners one-on-one and coached fitness clients as paid side work.
 - Built practical explanation, motivation, and coaching skills that now help in technical support and user training.
 
@@ -87,12 +88,13 @@ A background in paid English tutoring and fitness coaching helps me explain tech
 - Microsoft Certified: Dynamics 365 Fundamentals (CRM)
 - AWS Partner: Accreditation (Business)
 - AWS Partner: SAP on AWS (Business)
+- meTTle Program - DWS Top Talent leadership growth, mentorship, and strategic learning record
 
 ## Education and Continuous Learning
 
 - **Guangdong University of Foreign Studies** | English major, self-study undergraduate program | In progress
 - **Nanjing University of Information Science & Technology** | Financial Management self-study program | 2011 - 2012, paused for work and financial reasons
-- **Continuous learning:** Kyndryl internal courses, Microsoft certifications, Dedao learner AZ with 963 credits, student ID 182111265578
+- **Continuous learning:** Kyndryl internal courses, Microsoft certifications, Dedao learner AZ with 963 credits
 - Currently studying Linux, programming and vibe coding, cybersecurity, AI agent tools, and additional languages including Japanese, Spanish, and French basics
 
 ## Languages
