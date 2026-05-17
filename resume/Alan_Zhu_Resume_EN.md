@@ -1,45 +1,45 @@
 # Alan (Zhengfei Zhu / 朱正飞)
 
-**Bilingual IT Technical Support Specialist | ITSM Support Analyst | Microsoft 365 / ServiceNow / Knowledge Management | AI-enabled Support Operations**
-Shenzhen, China | Born Aug 1993 | WhatsApp: +1 460 209 9928 | China phone: +86 132 6720 5713
-Outlook: alan.xiaofei993@outlook.com | WeChat: QR code on portfolio contact section
+**Bilingual IT Support & Automation Specialist | ITSM Support Analyst | ServiceNow / Microsoft 365 / Knowledge Management | AI-driven Support Workflows**
+Shenzhen, China | Outlook: alan.xiaofei993@outlook.com
 LinkedIn: www.linkedin.com/in/alan-zhu-221846320
 
 ## Professional Profile
 
-Bilingual IT technical support specialist with 4+ years of experience across Kyndryl, UPS support, AIA support, and Yageo manufacturing IT. I handle Windows, Microsoft 365, account, VPN, MFA, endpoint, and ServiceNow issues for global users, then turn repeated fixes into practical knowledge articles, training notes, and clearer escalation records.
+Bilingual IT support and automation-minded ITSM professional with 4+ years of experience across Kyndryl, UPS support, AIA service desk support, and Yageo manufacturing IT. I help global users solve Windows, Microsoft 365, VPN, MFA, account, endpoint, application, and ServiceNow issues, then turn repeated fixes into SOPs, knowledge-base articles, training notes, and clearer escalation records.
 
-My IT career is built on self-study, certifications, and hands-on support work, with an earlier background in service, sales, teaching, and coaching. Before IT, I ran a small restaurant, worked as a chef, sold B2B products overseas, taught adults English one-on-one, and coached people in fitness. That mix helps me stay calm with users, explain technical steps plainly, and keep learning when the environment changes.
+My next-stage direction is not only to match traditional IT support roles, but to help teams reduce repeated support effort through knowledge management, Microsoft 365 productivity, Obsidian/Notion-style knowledge systems, structured prompts, AI-agent workflows, and practical automation. I use AI tools responsibly: company and customer data stay out of public tools, and AI-generated output is reviewed before it enters support documentation or user-facing guidance.
 
 ## Target Roles
 
-- IT Technical Support Specialist / Global IT Support Specialist
+- IT Support & Automation Specialist / Global IT Support Specialist
 - ITSM Support Analyst / ServiceNow Support Analyst
 - L1.5 / Tier 2-ready Technical Support
 - Knowledge Management / Support Documentation Specialist
-- AI-enabled IT Operations or Support Automation Coordinator
+- AI-enabled IT Operations / Support Automation Coordinator
 - Manufacturing IT Support / End User Computing Support
 
 ## Core Skills
 
-- **ITSM and support:** ServiceNow, incident/request lifecycle, ITIL 4 Foundation, SLA awareness, escalation notes
-- **Endpoint and Microsoft 365:** Windows 10/11, Outlook, Teams, OneDrive, Microsoft 365 Admin basics, Active Directory, VPN, MFA
-- **Knowledge and training:** KB articles, onboarding material, SOPs, training notes, video-style walkthroughs, one-on-one coaching
-- **AI and automation:** Microsoft Copilot, ChatGPT, Gemini, DeepSeek, Codex CLI, AI agent workflows, structured prompts, Power Automate basics
-- **Communication:** Fluent working English, native Mandarin, global user support by phone, email, chat, and remote session
+- **ITSM and support operations:** ServiceNow, incident/request lifecycle, ITIL 4 Foundation, SLA awareness, escalation and handover notes
+- **Endpoint, Microsoft 365 and security basics:** Windows 10/11, Outlook, Teams, OneDrive, Microsoft 365 Admin basics, Active Directory basics, VPN, MFA, account access support
+- **Knowledge systems and enablement:** KB articles, SOPs, onboarding material, training notes, Markdown, Obsidian workflows, Notion-style knowledge organization, Microsoft 365 documentation habits
+- **AI agents and automation:** Microsoft Copilot, ChatGPT, Gemini, DeepSeek, Codex CLI, AI-agent workflows, structured prompts, context/system-prompt design, Power Automate basics, MCP-aware tooling
+- **Communication and coordination:** Fluent working English, native Mandarin, global user support by phone/email/chat/remote session, asynchronous written updates, cross-cultural communication
 
 ## Work Experience
 
 ### Kyndryl Information Technology Co., Ltd. | Shenzhen / Remote
-**IT Technical Support Specialist, L1.5 / ServiceNow** | Apr 2022 - Present
+**IT Technical Support Specialist, L1.5 / ServiceNow / Support Knowledge Work** | Apr 2022 - Present
 Customer environments: Yageo manufacturing IT; AIA service desk project
 
 - Converted to full-time Kyndryl employee in Apr 2022, about nine months after joining the IBM/Kyndryl support environment through ASDC in Jul 2021, based on steady ticket quality, clear communication, and reliable front-line performance.
 - Provide English technical support for global Yageo users by phone, email, chat, and remote session across Windows, Microsoft 365, VPN, MFA, account, endpoint, and application issues.
 - Manage incidents and requests in ServiceNow with clear troubleshooting notes, user-impact context, and escalation information for downstream teams.
+- Work in a global support context that requires clear written updates, remote collaboration, and independent follow-through across regions and time zones.
 - Supported the AIA service desk project for about one year and helped rebuild detailed knowledge documents, training material, and video-style walkthroughs for a long-running support project.
-- Maintain and improve Yageo knowledge base content from real incidents, including KB articles, handover notes, and troubleshooting guides. I use AI tools carefully to draft, organize, and review notes faster while keeping company and user data out of public tools.
-- Use Microsoft Copilot, structured prompts, and local note workflows to improve ticket summaries, KB drafts, and support checklists within company data-security boundaries.
+- Maintain and improve Yageo knowledge base content from real incidents, including KB articles, handover notes, and troubleshooting guides.
+- Use Microsoft Copilot, structured prompts, local note workflows, and AI-agent thinking to improve ticket summaries, KB drafts, and support checklists within data-security boundaries.
 
 ### Advanced Systems Development Co., Ltd. (ASDC, outsourcing/service provider) | Shenzhen
 **Bilingual Technical Support Representative, outsourced to IBM/Kyndryl UPS Project** | Jul 2021 - Apr 2022
@@ -59,21 +59,31 @@ Customer environments: Yageo manufacturing IT; AIA service desk project
 ### Earlier Customer-facing and Teaching Work | Nanjing / Suzhou / Shenzhen
 **Restaurant operator, chef, hospitality worker, English and fitness coach** | 2012 - 2019
 
-- Worked about two years at Fuzhou Century Golden Resources Hotel in Chinese kitchens focused on Fujian/Min and Cantonese cuisine, then about two years at Shenzhen Futian Zhongzhou Shengtingyuan Hotel across the 1F buffet restaurant and 29F VIP restaurant chef work.
-- Later ran a small breakfast and meal shop, learning service discipline and delivery awareness from front-line work.
-- Taught adult English learners one-on-one and coached fitness clients as paid side work.
-- Built practical explanation, motivation, and coaching skills that now help in technical support and user training.
+- Condensed background: hotel kitchen work, a small food business, adult English tutoring, and fitness coaching built pressure handling, service discipline, and practical explanation skills.
+- These roles are not the center of my IT profile, but they explain why I can stay calm with users, teach step-by-step, and keep improving repeatable processes.
 
 ## Selected Work Examples
 
-### Knowledge base rebuilds for AIA and Yageo
-Organized SOPs, troubleshooting steps, onboarding notes, and training material so long-running support projects could be handed over more clearly and repeat incidents could be resolved faster.
+### Service Desk Knowledge Base Cleanup
+**Problem:** Repeated Windows, Microsoft 365, VPN, MFA, account, and application incidents caused inconsistent explanations and slower handovers.
 
-### AI-assisted support workflow
-Use Copilot, ChatGPT-style tools, structured prompts, and local note workflows to draft ticket summaries, KB outlines, and troubleshooting checklists while keeping company and user data out of public AI tools.
+**Actions:** Collected recurring issue patterns, rewrote notes into step-by-step SOPs, separated user-facing steps from internal escalation notes, and added prerequisites and escalation criteria.
 
-### Training and coaching mindset
-A background in paid English tutoring and fitness coaching helps me explain technical steps in plain language, adjust to different users, and confirm that the next step is understood.
+**Tools:** ServiceNow, Microsoft 365, Windows 10/11, VPN/MFA support context, Markdown, Obsidian-style notes, AI-assisted drafting.
+
+**Result:** Created reusable support notes, onboarding material, and clearer troubleshooting guides for recurring L1/L1.5 cases.
+
+### AI Agent Workflow Operating Model
+**Principle:** We are moving from asking AI to managing AI. The human value is preparing context and environment, defining goals, reviewing plans, supervising execution, verifying results, and turning effective methods into reusable skills or automation.
+
+**Workflow:** Use Codex-style agents for local files, terminal commands, plan mode, image generation, browser/computer tools, MCP connections, scheduled tasks, persistent memory, and reusable skills.
+
+**Boundary:** Keep company/customer data out of public tools, sanitize examples, and verify outputs before using them in support or documentation.
+
+### Bilingual Global Support Coordination
+**Problem:** Global support needs more than fixing one ticket: users need calm guidance, downstream teams need clean diagnostic context, and projects need repeatable handover material.
+
+**Actions:** Clarified symptoms, impact and prerequisites; documented troubleshooting steps; escalated with concise evidence; turned common explanations into training notes.
 
 ## Certifications
 
@@ -94,8 +104,7 @@ A background in paid English tutoring and fitness coaching helps me explain tech
 
 - **Guangdong University of Foreign Studies** | English major, self-study undergraduate program | In progress
 - **Nanjing University of Information Science & Technology** | Financial Management self-study program | 2011 - 2012, paused for work and financial reasons
-- **Continuous learning:** Kyndryl internal courses, Microsoft certifications, Dedao learner AZ with 963 credits
-- Currently studying Linux, programming and vibe coding, cybersecurity, AI agent tools, and additional languages including Japanese, Spanish, and French basics
+- **Continuous learning:** Kyndryl internal courses, Microsoft certifications, Linux basics, cybersecurity fundamentals, Microsoft 365 productivity, Obsidian/Markdown knowledge workflows, AI agents, practical automation, and additional languages including Japanese, Spanish, and French basics
 
 ## Languages
 

@@ -1,19 +1,18 @@
 # 朱正飞（Alan）
 
-**双语 IT 技术支持专家 | ITSM Support Analyst | Microsoft 365 / ServiceNow / 知识管理 | AI 辅助支持流程**
-深圳，中国 | 1993年8月生 | WhatsApp：+1 460 209 9928 | 国内电话：+86 132 6720 5713
-Outlook：alan.xiaofei993@outlook.com | 微信：见主页联系区二维码
+**双语 IT 支持与自动化专员 | ITSM Support Analyst | ServiceNow / Microsoft 365 / 知识管理 | AI 驱动支持流程**
+深圳，中国 | Outlook：alan.xiaofei993@outlook.com
 LinkedIn：www.linkedin.com/in/alan-zhu-221846320
 
 ## 个人简介
 
-拥有 4 年以上 IT 技术支持经验，经历过 Kyndryl、UPS 支持、AIA 支持项目和 Yageo 制造业 IT 环境。主要处理 Windows、Microsoft 365、账号、VPN、MFA、终端、应用和 ServiceNow 相关问题，也会把重复出现的问题整理成知识库、培训材料和更清楚的升级记录。
+拥有 4 年以上 IT 技术支持经验，经历过 Kyndryl、UPS 支持、AIA Service Desk 项目和 Yageo 制造业 IT 环境。主要帮助全球用户处理 Windows、Microsoft 365、VPN、MFA、账号、终端、应用和 ServiceNow 相关问题，并把重复修复沉淀成 SOP、知识库文章、培训材料和更清楚的升级记录。
 
-我的 IT 职业路径建立在持续自学、认证学习和真实支持经验之上，也来自更早期的服务、销售、教学和辅导经历。进入 IT 前，我开过小饭店、做过厨师、做过外贸销售，也一对一收费教过成人英语和健身。这些经历让我能在压力下保持冷静，把技术步骤讲清楚，并在环境变化时继续学习。
+我的下一阶段方向不是只匹配传统 IT 支持岗位，而是帮助团队通过知识管理、Microsoft 365 效率协作、Obsidian/Notion 类知识系统、结构化提示词、AI Agent 工作流和实用自动化，减少重复支持成本。我会负责任地使用 AI：公司和客户数据不进入公开工具，AI 生成内容必须经过复核，才会进入支持文档或用户指导。
 
 ## 目标岗位
 
-- IT 技术支持专家 / 全球 IT 支持专家（IT Technical Support Specialist / Global IT Support Specialist）
+- IT 支持与自动化专员 / 全球 IT 支持专家（IT Support & Automation Specialist / Global IT Support Specialist）
 - ITSM 支持分析师 / ServiceNow 支持分析师（ITSM Support Analyst / ServiceNow Support Analyst）
 - L1.5 / 准二线技术支持（L1.5 / Tier 2-ready Technical Support）
 - 知识管理 / 支持文档专员（Knowledge Management / Support Documentation Specialist）
@@ -22,24 +21,25 @@ LinkedIn：www.linkedin.com/in/alan-zhu-221846320
 
 ## 核心技能
 
-- **ITSM 与支持：** ServiceNow、事件/请求全生命周期、ITIL 4 Foundation、SLA 意识、升级记录
-- **终端与 Microsoft 365：** Windows 10/11、Outlook、Teams、OneDrive、Microsoft 365 管理基础、Active Directory、VPN、MFA
-- **知识库与培训：** KB 文章、新人上手材料、SOP、培训笔记、视频式操作说明、一对一辅导
-- **AI 与自动化：** Microsoft Copilot、ChatGPT、Gemini、DeepSeek、Codex CLI、AI Agent 工作流、结构化提示词、Power Automate 基础
-- **沟通：** 英语可作为工作语言，普通话母语，可通过电话、邮件、Chat 和远程会话支持全球用户
+- **ITSM 与支持运营：** ServiceNow、事件/请求全生命周期、ITIL 4 Foundation、SLA 意识、升级与交接记录
+- **终端、Microsoft 365 与安全基础：** Windows 10/11、Outlook、Teams、OneDrive、Microsoft 365 管理基础、Active Directory 基础、VPN、MFA、账号访问支持
+- **知识系统与赋能：** KB 文章、SOP、新人上手材料、培训笔记、Markdown、Obsidian 工作流、Notion 类知识组织、Microsoft 365 文档协作习惯
+- **AI Agent 与自动化：** Microsoft Copilot、ChatGPT、Gemini、DeepSeek、Codex CLI、AI Agent 工作流、结构化提示词、上下文/系统提示词设计、Power Automate 基础、MCP 工具意识
+- **沟通与协调：** 英语可作为工作语言，普通话母语，可通过电话、邮件、Chat 和远程会话支持全球用户，擅长异步书面更新和跨文化沟通
 
 ## 工作经历
 
 ### 勤达睿（Kyndryl）信息科技有限公司 | 深圳 / 远程
-**IT 技术支持专家，L1.5 / ServiceNow** | 2022.04 - 至今
+**IT 技术支持专家，L1.5 / ServiceNow / 支持知识管理** | 2022.04 - 至今
 客户环境：Yageo 制造业 IT；AIA Service Desk 项目
 
 - 2021 年 7 月通过同方鼎欣进入 IBM / Kyndryl 支持环境，约 9 个月后于 2022 年 4 月转为 Kyndryl 正式员工，主要来自稳定的工单质量、清晰的用户沟通和可靠的一线表现。
 - 面向 Yageo 全球用户，通过英文电话、邮件、Chat 和远程会话处理 Windows、Microsoft 365、VPN、MFA、账号、终端和应用问题。
 - 使用 ServiceNow 管理事件和请求，记录清楚的排障过程、用户影响和升级信息，方便后续团队接手。
+- 在全球支持环境中工作，需要清晰书面更新、远程协作和跨地区/跨时区的独立跟进能力。
 - 曾支持约一年的 AIA 友邦保险 Service Desk 项目，为一个长期运行的项目重新梳理详细知识文档、培训材料和视频式操作说明。
-- 持续根据 Yageo 的真实 incident 更新知识库，包括 KB 文章、交接说明和排障指南。现在会谨慎使用 AI 辅助起草、归纳和检查，同时严格避免把公司或用户敏感数据输入公开工具。
-- 使用 Microsoft Copilot、结构化提示词和本地笔记流程优化工单摘要、知识库草稿和支持清单。
+- 持续根据 Yageo 的真实 incident 更新知识库，包括 KB 文章、交接说明和排障指南。
+- 使用 Microsoft Copilot、结构化提示词、本地笔记流程和 AI Agent 思维优化工单摘要、知识库草稿和支持清单，同时遵守数据安全边界。
 
 ### 同方鼎欣科技股份有限公司（ASDC，Advanced Systems Development，外包服务公司）| 深圳
 **双语技术支持代表，外派 IBM / Kyndryl UPS 项目** | 2021.07 - 2022.04
@@ -59,21 +59,31 @@ LinkedIn：www.linkedin.com/in/alan-zhu-221846320
 ### 早期服务与教学经历 | 南京 / 苏州 / 深圳
 **小饭店经营、厨师、酒店服务、成人英语与健身一对一辅导** | 2012 - 2019
 
-- 曾在福建福州世纪金源大饭店中餐后厨约两年，接触闽菜和粤菜；也在深圳福田中洲圣庭苑酒店约两年，做过 1 楼自助餐厅和 29 楼 VIP 餐厅厨师。
-- 后来也开过早餐和简餐小店，从一线服务里学习抗压、执行和交付意识。
-- 做过成人英语和健身的一对一收费辅导，训练了解释、鼓励、纠错和因人调整的方法。
-- 这些经历培养了我的耐心、服务意识和把复杂步骤讲清楚的能力，现在也直接服务于技术支持工作。
+- 压缩概括：酒店后厨、小型餐饮经营、成人英语辅导和健身辅导经历，训练了我的抗压、服务纪律和实际解释能力。
+- 这些不是 IT 简历的核心，但能解释我为什么能在用户压力下保持冷静、拆步骤教学，并持续改进重复流程。
 
 ## 代表性工作内容
 
-### AIA 与 Yageo 知识库整理
-整理 SOP、常见问题处理步骤、新人上手资料和培训内容，让长期运行的支持项目能更清楚地交接，也让重复 incident 更容易被团队稳定处理。
+### Service Desk 知识库清理与 SOP 化
+**问题：** Windows、Microsoft 365、VPN、MFA、账号和应用类重复 incident 容易造成解释不一致、交接慢、新人上手困难。
 
-### AI 辅助 IT 支持流程
-使用 Copilot、ChatGPT 类工具、结构化提示词和本地笔记流程，整理工单摘要、知识库大纲和排障清单，同时坚持不把公司或用户敏感信息输入公开 AI 工具。
+**行动：** 收集常见问题模式，把零散笔记改写成步骤化 SOP，区分用户可见步骤和内部升级记录，并补充前置条件与升级标准。
 
-### 一对一教学式支持
-成人英语和健身辅导经历让我更习惯先听懂问题，再找到卡点，用用户能听懂、能复述的方式讲下一步。
+**工具：** ServiceNow、Microsoft 365、Windows 10/11、VPN/MFA 支持背景、Markdown、Obsidian 类笔记、AI 辅助草稿。
+
+**结果：** 形成可复用支持笔记、上手材料和常见 L1/L1.5 场景排障指南。
+
+### AI Agent 工作流管理模型
+**准则：** 我们正在从“问 AI”进入“管理 AI”的阶段。人的价值在于准备上下文和环境、明确目标、审查计划、监督过程、验收结果，并把有效方法沉淀成可复用技能或自动化。
+
+**流程：** 用 Codex 类 Agent 处理本地文件、终端命令、计划模式、图片生成、浏览器/电脑操作、MCP 连接、定时任务、持久记忆和可复用技能。
+
+**边界：** 公司和客户数据不进入公开工具，示例先脱敏，AI 输出必须验证后才能进入支持或文档流程。
+
+### 双语全球支持与交接协调
+**问题：** 全球支持不只是解决单个工单：用户需要稳定解释，下游团队需要清楚诊断背景，项目也需要可复用交接材料。
+
+**行动：** 澄清症状、影响和前置条件；记录排障过程；带着证据升级；把重复解释整理成培训笔记。
 
 ## 认证证书
 
@@ -94,8 +104,7 @@ LinkedIn：www.linkedin.com/in/alan-zhu-221846320
 
 - **广东外语外贸大学** | 英语专业，自考本科 | 在读
 - **南京信息工程大学** | 财务管理自考项目 | 2011 - 2012，后因工作与经济原因中断
-- **持续学习：** Kyndryl 内部课程、微软认证、得到 App 用户 AZ，963 学分
-- 当前学习方向：Linux、编程与 Vibe Coding、网络安全、AI Agent 工具、日语/西班牙语/法语基础
+- **持续学习：** Kyndryl 内部课程、微软认证、Linux 基础、网络安全基础、Microsoft 365 效率协作、Obsidian/Markdown 知识工作流、AI Agent、实用自动化，以及日语/西班牙语/法语基础
 
 ## 语言能力
 
