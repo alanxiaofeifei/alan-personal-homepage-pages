@@ -14,7 +14,7 @@ My next-stage direction is not only to match traditional IT support roles, but t
 
 - IT Support & Automation Specialist / Global IT Support Specialist
 - ITSM Support Analyst / ServiceNow Support Analyst
-- L1.5 / Tier 2-ready Technical Support
+- Advanced Technical Support / Escalation Coordination
 - Knowledge Management / Support Documentation Specialist
 - AI-enabled IT Operations / Support Automation Coordinator
 - Manufacturing IT Support / End User Computing Support
@@ -30,7 +30,7 @@ My next-stage direction is not only to match traditional IT support roles, but t
 ## Work Experience
 
 ### Kyndryl Information Technology Co., Ltd. | Shenzhen / Remote
-**IT Technical Support Specialist, L1.5 / ServiceNow / Support Knowledge Work** | Apr 2022 - Present
+**IT Technical Support Specialist, ServiceNow / Support Knowledge Work** | Apr 2022 - Present
 Customer environments: Yageo manufacturing IT; AIA service desk project
 
 - Converted to full-time Kyndryl employee in Apr 2022, about nine months after joining the IBM/Kyndryl support environment through ASDC in Jul 2021, based on steady ticket quality, clear communication, and reliable front-line performance.
@@ -71,7 +71,7 @@ Customer environments: Yageo manufacturing IT; AIA service desk project
 
 **Tools:** ServiceNow, Microsoft 365, Windows 10/11, VPN/MFA support context, Markdown, Obsidian-style notes, AI-assisted drafting.
 
-**Result:** Created reusable support notes, onboarding material, and clearer troubleshooting guides for recurring L1/L1.5 cases.
+**Result:** Created reusable support notes, onboarding material, and clearer troubleshooting guides for recurring support cases.
 
 ### AI Agent Workflow Operating Model
 **Principle:** We are moving from asking AI to managing AI. The human value is preparing context and environment, defining goals, reviewing plans, supervising execution, verifying results, and turning effective methods into reusable skills or automation.

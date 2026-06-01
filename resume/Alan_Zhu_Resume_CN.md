@@ -14,7 +14,7 @@ LinkedIn：www.linkedin.com/in/alan-zhu-221846320
 
 - IT 支持与自动化专员 / 全球 IT 支持专家（IT Support & Automation Specialist / Global IT Support Specialist）
 - ITSM 支持分析师 / ServiceNow 支持分析师（ITSM Support Analyst / ServiceNow Support Analyst）
-- L1.5 / 准二线技术支持（L1.5 / Tier 2-ready Technical Support）
+- 复杂问题排障与升级协作（Advanced Technical Support / Escalation Coordination）
 - 知识管理 / 支持文档专员（Knowledge Management / Support Documentation Specialist）
 - AI 辅助 IT 运维 / 支持自动化协调（AI-enabled IT Operations / Support Automation Coordinator）
 - 制造业 IT 支持 / 终端用户计算支持（Manufacturing IT Support / End User Computing Support）
@@ -30,7 +30,7 @@ LinkedIn：www.linkedin.com/in/alan-zhu-221846320
 ## 工作经历
 
 ### 勤达睿（Kyndryl）信息科技有限公司 | 深圳 / 远程
-**IT 技术支持专家，L1.5 / ServiceNow / 支持知识管理** | 2022.04 - 至今
+**IT 技术支持专家，ServiceNow / 支持知识管理** | 2022.04 - 至今
 客户环境：Yageo 制造业 IT；AIA Service Desk 项目
 
 - 2021 年 7 月通过同方鼎欣进入 IBM / Kyndryl 支持环境，约 9 个月后于 2022 年 4 月转为 Kyndryl 正式员工，主要来自稳定的工单质量、清晰的用户沟通和可靠的一线表现。
@@ -71,7 +71,7 @@ LinkedIn：www.linkedin.com/in/alan-zhu-221846320
 
 **工具：** ServiceNow、Microsoft 365、Windows 10/11、VPN/MFA 支持背景、Markdown、Obsidian 类笔记、AI 辅助草稿。
 
-**结果：** 形成可复用支持笔记、上手材料和常见 L1/L1.5 场景排障指南。
+**结果：** 形成可复用支持笔记、上手材料和常见支持场景排障指南。
 
 ### AI Agent 工作流管理模型
 **准则：** 我们正在从“问 AI”进入“管理 AI”的阶段。人的价值在于准备上下文和环境、明确目标、审查计划、监督过程、验收结果，并把有效方法沉淀成可复用技能或自动化。
