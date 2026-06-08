@@ -64,6 +64,15 @@ Customer environments: Yageo manufacturing IT; AIA service desk project
 
 ## Selected Work Examples
 
+### ServiceNow Automation Workbench
+**Problem:** Repeated ITSM work can waste time when intake context, ticket drafts, KB suggestions, package testing notes, and safety boundaries stay scattered across tools.
+
+**Actions:** Designed and published a public test-preview Electron/React desktop workbench that demonstrates sanitized intake, cleaned summaries, Incident drafts, local KB recommendations, guided review steps, a monthly Excel fill-queue placeholder, and safe human-in-the-loop boundaries.
+
+**Boundary:** The v0.1.0 public release is a test preview only. It does not automate real ServiceNow login, real ticket submission, Save / Submit / Update / Resolve / Close actions, Microsoft Graph or Excel Web writeback, or real customer data processing.
+
+**Public links:** GitHub repository: https://github.com/alanxiaofeifei/servicenow-automation | Release v0.1.0: https://github.com/alanxiaofeifei/servicenow-automation/releases/tag/v0.1.0
+
 ### Service Desk Knowledge Base Cleanup
 **Problem:** Repeated Windows, Microsoft 365, VPN, MFA, account, and application incidents caused inconsistent explanations and slower handovers.
 

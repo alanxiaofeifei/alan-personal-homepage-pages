@@ -64,6 +64,15 @@ LinkedIn：www.linkedin.com/in/alan-zhu-221846320
 
 ## 代表性工作内容
 
+### ServiceNow Automation Workbench
+**问题：** 重复 ITSM 工作如果分散在来源信息、工单草稿、KB 建议、测试记录和安全边界之间，会浪费大量整理与复核时间。
+
+**行动：** 设计并发布了一个公开测试预览版 Electron/React 桌面工作台，用来演示脱敏 intake、清理摘要、Incident 草稿、本地 KB 推荐、引导式审核、月度 Excel 填写队列占位和人工审核优先的安全边界。
+
+**边界：** v0.1.0 公开版本仅为测试预览版，不做真实 ServiceNow 登录自动化、真实工单提交、Save / Submit / Update / Resolve / Close 自动化、Microsoft Graph 或 Excel Web 写入，也不处理真实客户数据。
+
+**公开链接：** GitHub 仓库：https://github.com/alanxiaofeifei/servicenow-automation | Release v0.1.0：https://github.com/alanxiaofeifei/servicenow-automation/releases/tag/v0.1.0
+
 ### Service Desk 知识库清理与 SOP 化
 **问题：** Windows、Microsoft 365、VPN、MFA、账号和应用类重复 incident 容易造成解释不一致、交接慢、新人上手困难。
 
