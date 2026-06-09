@@ -97,6 +97,7 @@ LinkedIn：www.linkedin.com/in/alan-zhu-221846320
 ## 认证证书
 
 - ITIL 4 Foundation - IT 服务管理
+- ServiceNow Micro-Certification - Welcome to ServiceNow（Credly，2026 年 6 月获得）
 - Microsoft 365 Certified: Fundamentals
 - Microsoft Certified: Azure Fundamentals
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals

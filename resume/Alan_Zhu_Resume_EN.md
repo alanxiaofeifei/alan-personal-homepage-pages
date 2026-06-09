@@ -97,6 +97,7 @@ Customer environments: Yageo manufacturing IT; AIA service desk project
 ## Certifications
 
 - ITIL 4 Foundation - IT Service Management
+- ServiceNow Micro-Certification - Welcome to ServiceNow (Credly, issued Jun 2026)
 - Microsoft 365 Certified: Fundamentals
 - Microsoft Certified: Azure Fundamentals
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals
