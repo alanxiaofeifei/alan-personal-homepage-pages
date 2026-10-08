@@ -112,7 +112,7 @@ Customer environments: Yageo manufacturing IT; AIA service desk project
 
 ## Education and Continuous Learning
 
-- **Guangdong University of Foreign Studies** | English major, self-study undergraduate program | In progress
+- **Guangdong University of Foreign Studies** | English studies · self-study programme (no completed degree is claimed)
 - **Nanjing University of Information Science & Technology** | Financial Management self-study program | 2011 - 2012, paused for work and financial reasons
 - **Continuous learning:** Kyndryl internal courses, Microsoft certifications, Linux basics, cybersecurity fundamentals, Microsoft 365 productivity, Obsidian/Markdown knowledge workflows, AI agents, practical automation, and additional languages including Japanese, Spanish, and French basics
 

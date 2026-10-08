@@ -3,43 +3,55 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Alan | IT Support & Automation + Knowledge Management</title>
+    <title>Alan | Bilingual IT Support &amp; ITSM · Knowledge Systems</title>
     <meta
       name="description"
-      content="Alan is a bilingual IT Support & Automation Specialist focused on ServiceNow, Microsoft 365, Windows/VPN/MFA troubleshooting, knowledge management, and AI-driven ITSM workflows."
+      content="Alan (朱正飞) is a bilingual IT Support & ITSM Specialist: Windows, Microsoft 365, VPN, MFA, account and ServiceNow support, reusable knowledge-base work and reviewed AI-assisted workflows."
     />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#f6f4ef" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#111315" media="(prefers-color-scheme: dark)" />
     <link rel="canonical" href="https://alan-personal-homepage.pages.dev/" />
     <meta name="robots" content="index, follow" />
 
-    <meta property="og:title" content="Alan | IT Support & Automation + Knowledge Management" />
+    <meta property="og:title" content="Alan | Bilingual IT Support & ITSM · Knowledge Systems" />
     <meta
       property="og:description"
-      content="Bilingual IT support, ServiceNow, Microsoft 365, knowledge management, and responsible AI-agent workflows for support automation."
+      content="Bilingual IT support and ITSM, support knowledge bases, and human-reviewed AI-assisted workflows."
     />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://alan-personal-homepage.pages.dev/" />
     <meta property="og:image" content="https://alan-personal-homepage.pages.dev/assets/alan-hero-tech.png" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Alan | IT Support & Automation + Knowledge Management" />
+    <meta name="twitter:title" content="Alan | Bilingual IT Support & ITSM · Knowledge Systems" />
     <meta
       name="twitter:description"
-      content="Bilingual IT support, ServiceNow, Microsoft 365, knowledge management, and responsible AI-agent workflows."
+      content="Bilingual IT support and ITSM, support knowledge bases, and human-reviewed AI-assisted workflows."
     />
     <meta name="twitter:image" content="https://alan-personal-homepage.pages.dev/assets/alan-hero-tech.png" />
-    <link rel="stylesheet" crossorigin href="/alan-personal-homepage-pages/assets/index-FUG5W4GQ.css">
+    <script>
+      // Apply the saved or system theme before first paint to avoid a flash.
+      (function () {
+        var theme = null;
+        try {
+          theme = localStorage.getItem('alan-theme');
+        } catch (e) {}
+        if (theme !== 'light' && theme !== 'dark') {
+          theme = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        }
+        document.documentElement.dataset.theme = theme;
+        document.documentElement.style.colorScheme = theme;
+      })();
+    </script>
+  <link rel="stylesheet" crossorigin href="/alan-personal-homepage-pages/assets/index-CWCINRFW.css">
   </head>
   <body>
     <noscript>
-      <main style="font-family: Aptos, 'Microsoft YaHei', sans-serif; max-width: 760px; margin: 48px auto; padding: 0 20px; line-height: 1.7; color: #17202a;">
-        <h1>Alan - Bilingual IT Support &amp; Automation Specialist</h1>
+      <main style="font-family: system-ui, 'Microsoft YaHei', sans-serif; max-width: 760px; margin: 48px auto; padding: 0 20px; line-height: 1.7">
+        <h1>Alan (朱正飞) — Bilingual IT Support &amp; ITSM Specialist</h1>
         <p>
-          Alan helps global users solve Windows, Microsoft 365, VPN, MFA, account, endpoint, application,
-          and ServiceNow issues, then turns repeated fixes into SOPs, knowledge-base articles, training notes,
-          and safer AI-agent workflows.
-        </p>
-        <p>
-          Focus areas: IT support automation, ITSM, ServiceNow, Microsoft 365, knowledge management,
-          Obsidian/Markdown workflows, responsible AI-agent operation, and practical support documentation.
+          IT support since July 2021: Windows, Microsoft 365, VPN, MFA, account and ServiceNow issues for global users,
+          in English and Mandarin. Recurring fixes become SOPs, knowledge-base notes and training material.
         </p>
         <p>
           Public contact: <a href="mailto:alan.xiaofei993@outlook.com">alan.xiaofei993@outlook.com</a>
@@ -48,6 +60,6 @@
       </main>
     </noscript>
     <div id="root"></div>
-    <script type="module" crossorigin src="/alan-personal-homepage-pages/assets/index-D7MBWGDO.js"></script>
+    <script type="module" crossorigin src="/alan-personal-homepage-pages/assets/index-IDLOIGEH.js"></script>
   </body>
 </html>
